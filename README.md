@@ -10,7 +10,7 @@
 
 ## My CV 
 
-[Тык!](https://ссылочку_сюда](https://bogdanschc.github.io/)
+[Тык!](https://bogdanschc.github.io/)
 
 ## Портфолио 
 - Тестовая документация
